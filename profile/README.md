@@ -43,8 +43,8 @@ Recloset offers a smart and sustainable approach to tackle fast fashion challeng
 
  **APK Download** : [Download Here](https://drive.google.com/drive/folders/1RKDA-U6j8zne0D03vt6sYnwWeh4Q79F4)
 
-## Demo Screenshots
 
+## Demo Screenshots
 
 
 
@@ -79,8 +79,11 @@ Recloset offers a smart and sustainable approach to tackle fast fashion challeng
 - File Storage: Google Cloud Storage
 - Secrets Management: Flutter Dotenv, GCP Secret Manager
 
+## Architecture
+![Architecure](https://github.com/Re-Closet/.github/blob/main/Architecture.png?raw=true)
 
-
+## Process flow diagram
+![process diagram](https://github.com/Re-Closet/.github/blob/main/Process%20flow%20diagram.png?raw=true)
 
 ## Team Members
 
