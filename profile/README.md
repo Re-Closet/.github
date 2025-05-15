@@ -44,7 +44,11 @@ Recloset offers a smart and sustainable approach to tackle fast fashion challeng
  **APK Download** : [Download Here](https://drive.google.com/drive/folders/1RKDA-U6j8zne0D03vt6sYnwWeh4Q79F4)
 
 
-## Demo Screenshots
+## Demo Screenshots & Design Prototype
+
+- **Figma Link**: [View Figma Prototype](https://www.figma.com/design/PG1y6szLafXHuerNxoGQs9/GDGoC-Solution-Challenge?node-id=434-206&t=uu3MDjdVkpDyXhQe-0)
+- You can view the full app design and user flow in the Figma prototype linked above.
+
 
 
 
